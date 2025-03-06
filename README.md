@@ -4,21 +4,20 @@
 
 ## 📚 Table of Contents
 
-- [Project Overview](#project-overview)
-- [System Architecture](#system-architecture)
-- [Data Flow Diagram](#data-flow-diagram)
-- [Core Features](#core-features)
-- [Technology Stack](#technology-stack)
-- [Integration Details](#integration-details)
-- [Workflows](#workflows)
-- [Data Flow and Storage](#data-flow-and-storage)
-- [Deployment Strategy](#deployment-strategy)
-- [Security Considerations](#security-considerations)
-- [Performance Optimizations](#performance-optimizations)
-- [Community Engagement Tools](#community-engagement-tools)
-- [Analytics Dashboard](#analytics-dashboard)
-- [Future Enhancements](#future-enhancements)
-
+- [Project Overview](tab=readme-ov-file#project-overview)
+- [System Architecture](tab=readme-ov-file#system-architecture)
+- [Data Flow Diagram](tab=readme-ov-file#data-flow-diagram)
+- [Core Features](tab=readme-ov-file#core-features)
+- [Technology Stack](tab=readme-ov-file#technology-stack)
+- [Integration Details](tab=readme-ov-file#integration-details)
+- [Workflows](tab=readme-ov-file#workflows)
+- [Data Flow and Storage](tab=readme-ov-file#data-flow-and-storage)
+- [Deployment Strategy](tab=readme-ov-file#deployment-strategy)
+- [Security Considerations](tab=readme-ov-file#security-considerations)
+- [Performance Optimizations](tab=readme-ov-file#performance-optimizations)
+- [Community Engagement Tools](tab=readme-ov-file#community-engagement-tools)
+- [Analytics Dashboard](tab=readme-ov-file#analytics-dashboard)
+- [Future Enhancements](tab=readme-ov-file#future-enhancements)
 
 ## 🌟 Project Overview
 
@@ -39,7 +38,8 @@ Integrated with platforms like GitHub, Discord, Slack, and Discourse, this assis
 ## 🏗️ System Architecture
 
 The DevRel.AI system uses a microservices architecture with dedicated components for each major function:
-![image](https://github.com/user-attachments/assets/1d90cdb6-c0f1-4367-8c6e-1a44133c0054)
+![image](https://github.com/user-attachments/assets/abf47a00-3e9c-4e50-937e-3d1572d2ff0e)
+
 - **API Gateway**: Central entry point for all external requests
 - **Authentication Service**: Handles OAuth and token management
 - **Core Logic Layer**: Processes contributor data and generates insights
@@ -53,7 +53,8 @@ The DevRel.AI system uses a microservices architecture with dedicated components
 ## 📊 Data Flow Diagram
 
 The data flow within DevRel.AI follows a circular pattern, ensuring continuous feedback and improvement:
-![image](https://github.com/user-attachments/assets/2e2f6666-7431-4399-b520-0e5ea29ebbe0)
+![image](https://github.com/user-attachments/assets/895b0407-b7e4-417c-be60-77486f542c72)
+
 
 1. **Data Collection**: Webhooks and APIs gather information from integrated platforms
 2. **Processing**: AI models analyze contribution patterns and engagement metrics
