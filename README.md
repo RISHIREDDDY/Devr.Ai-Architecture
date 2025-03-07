@@ -52,7 +52,8 @@ The DevRel.AI system uses a microservices architecture with dedicated components
 ![System Architecture Diagram]
 
 ## 📊 Data Flow Diagram
-![image](https://github.com/user-attachments/assets/dfc3dbd9-0a05-4755-b3de-758f60dfb591)
+![diagram-export-3-7-2025-1_09_46-PM](https://github.com/user-attachments/assets/4b16cc64-ecd4-43bf-961e-5585bb9ae1d9)
+
 
 The data flow within DevRel.AI follows a circular pattern, ensuring continuous feedback and improvement:
 
